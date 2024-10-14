@@ -1,4 +1,6 @@
 # awesome software engineer competency matrix
+* sunbyte
+  * https://sunbytes.io/software-engineering-competency-matrix/
 * dropbox
   * https://dropbox.github.io/dbx-career-framework/overview.html
 * https://h3h.github.io/leveling-matrix/
